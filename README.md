@@ -219,6 +219,7 @@ public void Debit_WhenAmountIsMoreThanBalance_ShouldThrowArgumentOutOfRange()
         }
     }
 }
+Результаты тестирования:
 ![image](https://github.com/user-attachments/assets/bcc04845-c0dc-48a9-abed-21079307d686)
 ![image](https://github.com/user-attachments/assets/f7426e1b-35d8-4128-a5fe-0f1e42a9b717)
 
